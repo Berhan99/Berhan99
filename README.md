@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Berhan Günay!
+# 👋 Hi, I'm Berhan Gunay!
 
 Welcome to my GitHub space! I'm a passionate **full-stack developer** with a strong background in creating efficient web applications using **.NET, ASP.NET, React, and JavaScript**. I enjoy building both the frontend and backend, ensuring seamless experiences across the stack.
 
