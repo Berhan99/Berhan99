@@ -5,21 +5,22 @@ Welcome to my GitHub space! I'm a passionate **full-stack developer** with a str
 
 ## 💻 About Me
 - 🛠 **Currently working as a Full-Stack Developer** with 2.5 years of professional experience.  
-- 🌱 **Always Learning:** Currently diving deeper into **React Native** and sharpening my **React.js** skills.  
-- 💡 **Passionate about Technology:** I love exploring **C#, PL/SQL, jQuery, and AJAX**, and I regularly create RESTful and SOAP web services.  
-- 🌍 **Aspiring to work in the Netherlands**, a place that holds a special place in my heart after traveling through Amsterdam and Rotterdam.
+- 🌱 **Always Learning:** Currently diving deeper into **React JS** and sharpening my skills. After that I'll be interested with Docker and Kubernetes. 
+- 💡 **Passionate about Technology:** I love exploring new technologies, and I regularly try to create an output.  
+- 🌍 **Aspiring to travel all around the world especially Europe**, places that hold a special places in my heart after traveling through different european countries.
 
 ## 📌 My Favorite Projects
 Here are a few projects that highlight my skills and interests:
 - 🎬 [**MovieDux-React**](https://github.com/Berhan99/MovieDux-React): A React-based movie management app where users can explore and manage their movie watchlists. [Live Demo](https://berhan99.github.io/MovieDux-React/)
 - 🚀 [**AI_Products_NET.CoreMVC**](https://github.com/Berhan99/AI_Products_NET.CoreMVC): A .NET Core MVC application showcasing AI product management.
-- 🏠 [**Smart-Home-Project**](https://github.com/Berhan99/Smart-Home-Project): My graduate project focusing on C++-based smart home solutions.
+- 🏠 [**Smart-Home-Project**](https://github.com/Berhan99/Smart-Home-Project): My graduate project focusing on C-based smart home solutions.
+- 🐛 [**BugBlaster**](https://github.com/Berhan99/BugBlaster): A React-based bug tracking and resolution tool designed to help software developers manage their workflows efficiently. [Live Demo(https://berhan99.github.io/BugBlaster/)
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, JavaScript, HTML, CSS  
-- **Backend:** ASP.NET Core, C#, PL/SQL  
-- **Tools:** Visual Studio, Visual Studio Code, Git, IIS  
-- **Other Interests:** AI solutions, APIs, React Native
+- **Frontend:** React.js, JavaScript, JQuery, HTML, CSS  
+- **Backend:** ASP.NET Web Forms, ASP.NET Core, C#, PL/SQL, Oracle 
+- **Tools:** Visual Studio, Visual Studio Code, Git, TFS, IIS, DevExpress, Toad
+- **Services:** REST, SOAP
 
 ## 🤝 Let's Collaborate!
 I'm open to collaborating on exciting new ideas, self-improvement projects, or anything related to **full-stack development**. Feel free to reach out!
