@@ -14,7 +14,7 @@ Here are a few projects that highlight my skills and interests:
 - 🎬 [**MovieDux-React**](https://github.com/Berhan99/MovieDux-React): A React-based movie management app where users can explore and manage their movie watchlists. [Live Demo](https://berhan99.github.io/MovieDux-React/)
 - 🚀 [**AI_Products_NET.CoreMVC**](https://github.com/Berhan99/AI_Products_NET.CoreMVC): A .NET Core MVC application showcasing AI product management.
 - 🏠 [**Smart-Home-Project**](https://github.com/Berhan99/Smart-Home-Project): My graduate project focusing on C-based smart home solutions.
-- 🐛 [**BugBlaster**](https://github.com/Berhan99/BugBlaster): A React-based bug tracking and resolution tool designed to help software developers manage their workflows efficiently. [Live Demo(https://berhan99.github.io/BugBlaster/)
+- 🐛 [**BugBlaster**](https://github.com/Berhan99/BugBlaster): A React-based bug tracking and resolution tool designed to help software developers manage their workflows efficiently.[Live Demo](https://berhan99.github.io/BugBlaster/)
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js, JavaScript, JQuery, HTML, CSS  
